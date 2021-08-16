@@ -1,0 +1,12 @@
+h1{text-align:center;}
+.red{color:red;}
+.blue{color:blue;}
+.green{color:green;}
+.xlarge{font-size:x-large;}
+.small{font-size:small;}
+.center{position:absolute; left:45%;}   /* I have no clue why text-align wouldn't work for this or why 50% was off center?*/
+.bold{font-weight:bold;}
+.font-family{font-family:fantasy;}
+.bigboldorange{color:orange;font-weight:bold;font-size: x-large;}
+.styledFont{color:rgb(60, 170, 60);font-family:sans-serif;font-size: large;} /*I grabbed a new image since the old one was missing its authentication tolken*/
+img{width:350px; height: 400px; object-fit:cover; border:orange 5px solid}
